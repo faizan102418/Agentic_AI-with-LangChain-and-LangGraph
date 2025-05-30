@@ -1,7 +1,18 @@
 [project]
+<<<<<<< HEAD
 name = "projects-using-gemini"
+=======
+name = "agentic-ai-with-langchain-and-langgraph"
+>>>>>>> 0b41d64537952b8883937cedc4c774a137e25ba1
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
+<<<<<<< HEAD
 dependencies = []
+=======
+dependencies = [
+    "ipykernel>=6.29.5",
+    "pydantic>=2.11.5",
+]
+>>>>>>> 0b41d64537952b8883937cedc4c774a137e25ba1
